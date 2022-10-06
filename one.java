@@ -1,0 +1,6 @@
+PUBLIC STATIC VOID MAIL{}
+{
+
+
+
+}
